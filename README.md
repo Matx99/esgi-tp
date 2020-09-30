@@ -9,9 +9,12 @@
 - Docker
 - DockerFile
 - docker-compose.yml
+
+
   #Comment lancer le projet
 - _docker-compose up --build -d_
 - _docker run symfony_
+
 
 ##Comment cela fonctionne
 Une image avec pour base la projet symfony est crée.
