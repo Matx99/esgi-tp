@@ -1,7 +1,7 @@
 #Projet de 
 * Moussia MOTTAL
 * Yassine BOUSAIDI
-* 
+* Mathieu PIONNIER
 
 #Les dépendances du projet:
 - Docker
