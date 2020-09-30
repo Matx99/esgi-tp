@@ -1,8 +1,8 @@
-#Projet de
-
-- Moussia MOTTAL
-- Yassine BOUSAIDI
-- Céline LY
+#Projet de 
+* Moussia MOTTAL
+* Yassine BOUSAIDI
+* Mathieu PIONNIER
+* Céline LY
 
 #Les dépendances du projet:
 
