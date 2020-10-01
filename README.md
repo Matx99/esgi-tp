@@ -1,10 +1,12 @@
-#Projet de 
-* Moussia MOTTAL
-* Yassine BOUSAIDI
-* Mathieu PIONNIER
-* Céline LY
+#Projet de
+
+- Moussia MOTTAL
+- Yassine BOUSAIDI
+- Mathieu PIONNIER
+- Céline LY
 
 *Premier commit Signé
+*Second commit Signé
 
 #Les dépendances du projet:
 
