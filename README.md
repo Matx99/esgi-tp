@@ -6,8 +6,14 @@
 - Céline LY
 
 *Premier commit Signé
+
 *Second commit Signé
 * Ajout de la branche release *
+
+*Second commit Signé 2
+
+- Ajout de la branche release
+
 
 #Les dépendances du projet:
 
