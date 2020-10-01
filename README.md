@@ -1,17 +1,18 @@
-#Projet de 
-* Moussia MOTTAL
-* Yassine BOUSAIDI
-* Mathieu PIONNIER
-* Céline LY
+#Projet de
 
-#Les dépendances du projet:
+- Moussia MOTTAL
+- Yassine BOUSAIDI
+- Mathieu PIONNIER
+- Céline LY
+  test
+  #Les dépendances du projet:
 
-- Docker
-- DockerFile
-- docker-compose.yml
+* Docker
+* DockerFile
+* docker-compose.yml
   #Comment lancer le projet
-- _docker-compose up --build -d_
-- _docker run symfony_
+* _docker-compose up --build -d_
+* _docker run symfony_
 
 ##Comment cela fonctionne
 Une image avec pour base la projet symfony est crée.
