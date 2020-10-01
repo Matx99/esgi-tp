@@ -30,5 +30,6 @@ les dépendances de symfony sont les suivantes pour être le plus à l'aise
 Symfony est accessible depuis l'url 0.0.0.0:81
 phpMyadmin est accessible depuis l'url localhost: 8080
 
+
 - login : root
 - password: demo
