@@ -7,6 +7,7 @@
 
 *Premier commit Signé
 *Second commit Signé
+* Ajout de la branche release
 
 #Les dépendances du projet:
 
